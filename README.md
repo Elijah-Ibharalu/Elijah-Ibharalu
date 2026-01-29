@@ -22,7 +22,7 @@ R&D Officer | Signal Processing & Model-Based Design Engineer
 
 | Project | Domain | Description |
 |------|------|------|
-| [Multichannel FIR Filtering Testbed]( | DSP | Parallel FIR filtering of independent audio channels |
+| [Multichannel FIR Filtering Testbed](https://github.com/Elijah-Ibharalu/Signal-Processing_filtering.git) | DSP | Parallel FIR filtering of independent audio channels |
 | Command & Control Logic Models | Aerospace | Fault-tolerant command validation architectures |
 | (Upcoming) Automatic Gain Control (AGC) | DSP | Baseband processing and channel impairments |
 
