@@ -3,7 +3,7 @@
 
 R&D Officer | Signal Processing & Model-Based Design Engineer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elijah%20Ibharalu-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-ibharalu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elijah%20Ibharalu-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/elijah-ibharalu](https://www.linkedin.com/in/elijah-ibharalu-968150245)
 
 
 **Tools & Domains**
