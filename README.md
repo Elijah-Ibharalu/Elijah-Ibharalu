@@ -24,7 +24,7 @@ R&D Officer | Signal Processing & Model-Based Design Engineer
 |------|------|------|
 | [Multichannel FIR Filtering Testbed](https://github.com/Elijah-Ibharalu/Signal-Processing_filtering.git) | DSP | Parallel FIR filtering of independent audio channels |
 | [Command & Control Logic Models](https://github.com/Elijah-Ibharalu/Logical-Construct.git) | Aerospace | Fault-tolerant command validation architecture |
-| Automatic Gain Control (AGC) | DSP/Audio/Comms |  |
+| [Automatic Gain Control (AGC)](https://github.com/Elijah-Ibharalu/Automatic-Gain-Control.git) | DSP/Audio/Comms |  |
 | Others |  |random simulink projects
 ---
 
