@@ -14,7 +14,7 @@ R&D Officer | Signal Processing & Model-Based Design Engineer
 - FIR / IIR Filtering  
 - Multichannel Signal Processing  
 - Time & Frequency Domain Analysis  
-- Communications & RF System Modelling  
+- Communications & RF System Modeling  
 
 ---
 
@@ -24,8 +24,8 @@ R&D Officer | Signal Processing & Model-Based Design Engineer
 |------|------|------|
 | [Multichannel FIR Filtering Testbed](https://github.com/Elijah-Ibharalu/Signal-Processing_filtering.git) | DSP | Parallel FIR filtering of independent audio channels |
 | [Command & Control Logic Models](https://github.com/Elijah-Ibharalu/Logical-Construct.git) | Aerospace | Fault-tolerant command validation architecture |
-| [Automatic Gain Control (AGC)](https://github.com/Elijah-Ibharalu/Automatic-Gain-Control.git) | DSP/Audio/Comms |  |
-| [Others](https://github.com/Elijah-Ibharalu/Random-models.git) |  |random simulink projects
+| [Automatic Gain Control (AGC)](https://github.com/Elijah-Ibharalu/Automatic-Gain-Control.git) | DSP/Audio/Comms | Algorithm development, source loudness, control |
+| [Others](https://github.com/Elijah-Ibharalu/Random-models.git) |  |Random simulink projects|
 ---
 
 **Research & Community Involvement**
