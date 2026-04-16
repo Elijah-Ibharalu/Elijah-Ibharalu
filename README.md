@@ -27,6 +27,7 @@ R&D Officer | Signal Processing & Model-Based Design Engineer
 | [Command & Control Logic Models](https://github.com/Elijah-Ibharalu/Logical-Construct.git) | Aerospace | Fault-tolerant command validation architecture |
 | [Automatic Gain Control (AGC)](https://github.com/Elijah-Ibharalu/Automatic-Gain-Control.git) | DSP/Audio/Comms | Algorithm development, source loudness, control |
 | [Others](https://github.com/Elijah-Ibharalu/Random-models.git) |  |Random simulink projects|
+| [Analog to Digital Converter (ADC)](https://github.com/Elijah-Ibharalu/Automatic-Gain-Control.git) | Mixed Signal | Algorithm development, VHDL, FPGA |
 ---
 
 **Research & Community Involvement**
