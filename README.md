@@ -14,7 +14,8 @@ R&D Officer | Signal Processing & Model-Based Design Engineer
 - FIR / IIR Filtering  
 - Multichannel Signal Processing  
 - Time & Frequency Domain Analysis  
-- Communications & RF System Modeling  
+- Communications & RF System Modeling
+- mixed signal systems  
 
 ---
 
